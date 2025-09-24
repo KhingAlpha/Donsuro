@@ -514,11 +514,13 @@ footer {
   #prodetails {
     display: flex;
     flex-direction: column;
+    justify-content: center;
   }
 
   #prodetails .single-pro-image {
-    width: 100%;
+    width: 340px;
     margin-right: 0px;
+    margin-left: -45px;
    }
 
     #prodetails .single-pro-details {
